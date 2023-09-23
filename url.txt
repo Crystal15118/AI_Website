@@ -1,0 +1,2 @@
+Short url: https://shorturl.at/inFM1
+normal url: http://192.168.0.103
